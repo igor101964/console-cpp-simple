@@ -2,11 +2,11 @@
 
 # Developer Workspace
 
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=21w2nx87yto2xi1z)
+[![Contribute](http://www.appservgrid.com/images/devlogo.svg)](http://www.appservgrid.com/paw3)
 
 # Recipe
 
-FROM [codenvy/cpp_gcc](https://hub.docker.com/r/codenvy/cpp_gcc/)
+FROM [Art2Dec](http://www.appservgrid.com/paw3)
 
 # Commands
 
